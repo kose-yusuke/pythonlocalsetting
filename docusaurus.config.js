@@ -70,7 +70,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Tutorial',
-                to: '/Python-Setting',
               },
             ],
           },

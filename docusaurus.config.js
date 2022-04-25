@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://yusuke-ops.github.io/pythonlocalsetting',
+  url: 'https://kose-yusuke.github.io/pythonlocalsetting',
   baseUrl: '/pythonlocalsetting/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

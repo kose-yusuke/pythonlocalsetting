@@ -11,7 +11,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'yusuke-ops', // Usually your GitHub org/user name.
+  organizationName: 'kose-yusuke', // Usually your GitHub org/user name.
   projectName: 'pythonlocalsetting', // Usually your repo name.
 
   presets: [
@@ -50,7 +50,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Python-Setting',
             position: 'left',
             label: 'Tutorial',
           },
